@@ -35,6 +35,19 @@ Para poder ejecutar este ejemplo lo único que necesitas hacer es ejecutar:
 docker compose up
 ```
 
+La primera vez tardará unos instantes porque tendrá que descargarse los modelos si aún no los tienes en tu máquina:
+
+<div align="center">
+
+
+<img width="841" height="395" alt="Screenshot 2025-10-08 at 10 40 47" src="https://github.com/user-attachments/assets/d5e1b8d0-68e2-4c71-93d0-49391e810a15" />
+
+</div>
+
+Y una vez que finalice la descarga podrás ver el resultado de la ejecución de mi `app.py` en el terminal.
+
+
+
 ### 🎯 ¿Te ha resultado útil este contenido?
 
 **¡La mejor forma de agradecerlo es con una suscripción!** 
