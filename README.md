@@ -46,7 +46,7 @@ La primera vez tardará unos instantes porque tendrá que descargarse los modelo
 
 Y una vez que finalice la descarga podrás ver el resultado de la ejecución de mi `app.py` en el terminal.
 
-
+<img width="958" height="602" alt="Screenshot 2025-10-08 at 10 57 41" src="https://github.com/user-attachments/assets/9eb6e15e-641b-4abc-ad83-3a866bd095f6" />
 
 ### 🎯 ¿Te ha resultado útil este contenido?
 
