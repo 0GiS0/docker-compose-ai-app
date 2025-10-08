@@ -18,3 +18,31 @@ En este repo podrás encontrar la demo que te mostré en mi vídeo [Docker Compo
  <a href="https://youtu.be/_tM7dlhYWnY">
                 <img src="https://img.youtube.com/vi/_tM7dlhYWnY/maxresdefault.jpg" alt="Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML" width="100%" />
  </a>
+
+
+## Requisitos
+
+Para poder ejecutar este ejemplo necesitas un ordenador compatible con Docker Model Runner. En este enlace puedes ver si cumples con los requisitos, aunque la forma más sencilla de averiguarlo es revisar tu Docker Desktop y comprobar si puedes ver la pestaña `Models`.
+
+<img width="1273" height="842" alt="Sección Models en Docker Desktop" src="https://github.com/user-attachments/assets/8bdb0039-7c51-4bb0-b17e-9ce182d2f7e2" />
+
+
+## Cómo ejecutar este ejemplo
+
+Para poder ejecutar este ejemplo lo único que necesitas hacer es ejecutar:
+
+```bash
+docker compose up
+```
+
+### 🎯 ¿Te ha resultado útil este contenido?
+
+**¡La mejor forma de agradecerlo es con una suscripción!** 
+
+Cada nuevo suscriptor me motiva a seguir creando contenido de calidad y mantener estos repositorios actualizados. 
+
+[![Suscríbete Ahora](https://img.shields.io/badge/🔔%20SUSCRÍBETE%20AHORA-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
+
+¡Nos vemos 👋🏻!
+
+</div>
